@@ -56,8 +56,10 @@ Frontend Setup
 
         3.	Start the development server:
                 npm start
-4.	App will be available at:
-👉 http://localhost:3000
+
+        4.	App will be available at:
+
+                👉 http://localhost:3000
 
 Backend Setup
 	1.	Navigate to the backend directory:
